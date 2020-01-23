@@ -7,3 +7,5 @@ draft: false
 I am in cloud9 this is fun
 
 I am using `hugo deploy` command
+
+Auto deploy is live
